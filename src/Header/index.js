@@ -7,7 +7,7 @@ const Header = props => {
   return (
     <header>
       <h1>RSVP</h1>
-      <p>A Treehouse App</p>
+      <p>App based off Treehouse project</p>
       <InviteForm
         newGuestSubmitHandler={props.newGuestSubmitHandler}
         pendingGuest={props.pendingGuest}
