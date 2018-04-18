@@ -2,7 +2,7 @@
   "name": "invitation-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/frazierr2/RSVP-app/",
+  "homepage": "https://frazierr2.github.io/RSVP-app/",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "prop-types": "^15.6.1",
